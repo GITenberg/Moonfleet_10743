@@ -1,0 +1,43 @@
+_repo: Moonfleet_10743
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Falkner, John Meade
+    alias: Falkner, J. Meade (John Meade)
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '3660'
+    url: http://www.gutenberg.org/2009/agents/3660
+    wikipedia: http://en.wikipedia.org/wiki/J._Meade_Falkner
+description: "Moonfleet is a tale of smuggling by the English novelist J. Meade Falkner,\
+  \ first published in 1898. The book was extremely popular among children worldwide\
+  \ up until the 1970s, mostly for its themes of adventure and gripping storyline.\
+  \ It remains a popular story widely read and is still sometimes studied in schools.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Historical Fiction
+- Movie Books
+- Adventure
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10743'
+  wikidata: Q1795631
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Smugglers -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- !lcc 'PZ'
+- !lcsh 'Treasure troves -- Fiction'
+- !lcsh 'England -- Fiction'
+- GITenberg
+title: Moonfleet
+url: http://www.gutenberg.org/ebooks/10743
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D9%85%D9%88%D9%86_%D9%81%D9%84%D9%8A%D8%AA
+- https://de.wikipedia.org/wiki/Moonfleet
+- https://en.wikipedia.org/wiki/Moonfleet
