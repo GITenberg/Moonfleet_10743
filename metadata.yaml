@@ -1,5 +1,8 @@
 _repo: Moonfleet_10743
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Falkner, John Meade
@@ -14,6 +17,8 @@ description: "Moonfleet is a tale of smuggling by the English novelist J. Meade 
   \ up until the 1970s, mostly for its themes of adventure and gripping storyline.\
   \ It remains a popular story widely read and is still sometimes studied in schools.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10743#Moonfleet
 gutenberg_bookshelf:
 - Historical Fiction
 - Movie Books
